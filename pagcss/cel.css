@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+
+
+
+
+@media(min-width: 768px){
+    #spanmenu{display:none;}
+    header{display: flex;}
+    nav ul{display: block;}
+    #links{display: block;}
+    .container1{ width: 100%;
+ } 
+}
+
+@media(min-width:768px) and (max-width: 1200px){
+   nav ul{display: flex;} 
+   .sobreBanda{height: 120vh;}
+   .descriçao{
+     display: block;
+   }
+   .descriçao p{
+    font-size: 25px;
+   }
+
+   
+}
+@media(min-width:1200px) and (max-width:1600px){
+    nav ul{display: flex;} 
+    .descriçao p{
+        font-size: 25px;
+       }
+    .descriçao1 p{
+        font-size: 25px;
+       }
+}
+@media(min-width:300px) and (max-width:768px) {
+    .descriçao p{
+        display: block;
+        color: white;
+        font-size:19px; 
+        height: 70vh;    
+    }
+    .descriçao1 p{
+        display: block;
+        color: white;
+        font-size:19px; 
+        height: 70vh;    
+    }
+
+}
+
