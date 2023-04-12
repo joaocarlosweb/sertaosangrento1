@@ -54,7 +54,7 @@ ul a:hover{
     display: inline;
     
 }
-.home{
+.img1{
     
     color: white;
     width: 100%;
@@ -66,7 +66,7 @@ ul a:hover{
     background-position: center;
     background-attachment: fixed;
 }
-.serviço{
+.img2{
     color: white;
     width: 100%;
     margin: auto;
@@ -81,7 +81,7 @@ ul a:hover{
     background-position:  right;
     background-attachment: fixed;
 }
-.contato{
+.img3{
     color: white;
     width: 100%;
     height: 100vh;
@@ -95,7 +95,7 @@ ul a:hover{
     background-position: center top;
     background-attachment: fixed;
 }
-.sobre{
+.img4{
     
     color: white;
     width: 100%;
@@ -110,7 +110,7 @@ ul a:hover{
     background-position: center;
     background-attachment: fixed;
 }
-.img{
+.img5{
     color: white;
     width: 100%;
     height: 100vh;
